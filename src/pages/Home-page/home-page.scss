@@ -1,0 +1,18 @@
+.student-card-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.studenti {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  // border: 1px solid black;
+}
+.lecturer-card-container {
+  // border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  // padding-left: 50px;
+}

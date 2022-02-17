@@ -1,0 +1,15 @@
+.header {
+  background-color: rgb(38, 0, 255);
+  display: flex;
+  justify-content: space-around;
+}
+.add {
+  border: none;
+  height: 50px;
+  margin-top: 17px;
+  background-color: rgba(17, 204, 211, 0.726);
+  border-radius: 10px;
+}
+.add:hover {
+  background-color: royalblue;
+}
